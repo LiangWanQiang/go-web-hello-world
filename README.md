@@ -105,7 +105,7 @@ Access http://127.0.0.1:8080/.
 
 When you access gitlab at the first time, you need to input the password for admin user "root". 
 
-![image-20210306123831606](images\image-20210306123831606.png)
+![image-20210306123831606](images/image-20210306123831606.png)
 
 **2.4 Issue Solving**
 
@@ -113,7 +113,7 @@ After runing a while, the webpage returns error: Whoops, GitLab is taking too mu
 
 It's because the storage space is not enough. Make sure your VM has 4G base memory and 20G storage.
 
-![image-20210306132936047](images\image-20210306132936047.png)
+![image-20210306132936047](images/image-20210306132936047.png)
 
 ### Task 3: Create a demo group/project in gitlab and set up Golang env
 
@@ -123,7 +123,7 @@ Register a gitlab user and login into gitlab, create new group named "demo", cre
 
 You can access the project at http://127.0.0.1:8080/demo/go-web-hello-world:
 
-![image-20210306130001376](images\image-20210306130001376.png)
+![image-20210306130001376](images/image-20210306130001376.png)
 
 **3.2 set up Golang env**
 
@@ -189,7 +189,7 @@ $ curl http://localhost:8081
 Go Web Hello World!
 ```
 
-![image-20210306130610636](images\image-20210306130610636.png)
+![image-20210306130610636](images/image-20210306130610636.png)
 
 ### Task 5: Install docker
 
@@ -273,7 +273,7 @@ $ curl http://127.0.0.1:8082
 Go Web Hello World!
 ```
 
-![image-20210307000622613](images\image-20210307000622613.png)
+![image-20210307000622613](images/image-20210307000622613.png)
 
 ### Task 7: Push image to docker hub
 
