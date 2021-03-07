@@ -1,6 +1,15 @@
+- [go-web-hello-world](#go-web-hello-world)
+  - [Task 0: Install a ubuntu server 64-bit in VirtualBox](#task-0-install-a-ubuntu-server-64-bit-in-virtualbox)
+  - [Task 1: Update system](#task-1-update-system)
+  - [Task 2: Install gitlab-ce version in the host](#task-2-install-gitlab-ce-version-in-the-host)
+  - [Task 3: Create a demo group/project in gitlab and set up Golang env](#task-3-create-a-demo-groupproject-in-gitlab-and-set-up-golang-env)
+  - [Task 4: Build the web app and expose the service to 8081 port](#task-4-build-the-web-app-and-expose-the-service-to-8081-port)
+  - [Task 5: Install docker](#task-5-install-docker)
+  - [Task 6: Run the web app in container](#task-6-run-the-web-app-in-container)
+  - [Task 7: Push image to docker hub](#task-7-push-image-to-docker-hub)
 ## go-web-hello-world
 
-[TOC]
+This guide will introduce how to install gitlab ce, build golang web app and run the web app in container.
 
 ### Task 0: Install a ubuntu server 64-bit in VirtualBox
 

@@ -1,7 +1,10 @@
+
+- [Kubernetes and Kubernetes Dashboard](#kubernetes-and-kubernetes-dashboard)
+  - [Task 9: Install a single node Kubernetes cluster using kubeadm](#task-9-install-a-single-node-kubernetes-cluster-using-kubeadm)
+  - [Task 10: Deploy the hello world container](#task-10-deploy-the-hello-world-container)
+  - [Task 11: Install kubernetes dashboard](#task-11-install-kubernetes-dashboard)
+  - [Task 12: Generate token for dashboard login in task 11](#task-12-generate-token-for-dashboard-login-in-task-11)
 ## Kubernetes and Kubernetes Dashboard
-
-[TOC]
-
 ### Task 9: Install a single node Kubernetes cluster using kubeadm
 
 Refer to https://kubernetes.io/docs/setup/independent/create-cluster-kubeadm/ to install kubernetes.
