@@ -11,7 +11,7 @@
 
 This guide will introduce how to install gitlab ce, build golang web app and run the web app in container.
 
-If the pictures can not show, try to download the repo or check pictures in images subfolder.
+If the pictures can not show, it's due to the network access restriction from your area, try to download the repo or check pictures in images subfolder.
 
 ### Task 0: Install a ubuntu server 64-bit in VirtualBox
 
