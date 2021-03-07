@@ -162,7 +162,7 @@ ca.crt:     1025 bytes
 
 Using the generated token to login kubernetes dashboard. 
 
-![image-20210307200551486](images/image-20210307200551486.png)
+![image-20210307200551486](images/image-20210307200551486.png?raw=true)
 
 ![image-20210307132809300](images/image-20210307132809300.png?raw=true)
 
