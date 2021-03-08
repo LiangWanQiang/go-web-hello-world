@@ -17,9 +17,9 @@ If the pictures can not show, it's due to the network access restriction from yo
 
 **0.1 Download VirtualBox and install it**
 
-Download link: https://www.virtualbox.org/wiki/Downloads
-
 Install VirtualBox 6.1.
+
+Download link: https://www.virtualbox.org/wiki/Downloads
 
 **0.2 Download ubuntu server iso**
 
